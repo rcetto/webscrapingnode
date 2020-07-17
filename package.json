@@ -1,0 +1,24 @@
+{
+  "name": "webscrapingnode",
+  "version": "1.0.0",
+  "description": "Web scraping con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcetto/webscrapingnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcetto/webscrapingnode/issues"
+  },
+  "homepage": "https://github.com/rcetto/webscrapingnode#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
